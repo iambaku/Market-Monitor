@@ -1,0 +1,1 @@
+SITES = {"crude":"https://tradingeconomics.com/commodity/crude-oil","fii":"https://web.stockedge.com/fii-activity","gift":"https://sgxnifty.org/","usdinr":"https://www.google.com/search?q=usd+to+inr"}
